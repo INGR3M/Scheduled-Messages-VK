@@ -1,1 +1,1 @@
-# Scheduled-Messages-VK
+# Scheduled-Messages-VK Python 3.9
